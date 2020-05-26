@@ -1,4 +1,4 @@
-@[TOC](超简单的前端静态资源服务器部署--nginx)
+@[超简单的前端静态资源服务器部署--nginx](https://github.com/tangdou369098655/FrontEndDeployment/blob/master/nginx_zh.md)
 
 ## 说明
 
