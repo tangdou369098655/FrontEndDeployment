@@ -1,6 +1,8 @@
-@[超简单的前端静态资源服务器部署--nginx](https://github.com/tangdou369098655/FrontEndDeployment/blob/master/nginx_zh.md)
+@[Host your website with Nginx for Front-end Developers on CentOS](https://github.com/tangdou369098655/FrontEndDeployment/edit/master/nginx_eng.md)
 
-## 说明
+English | [简体中文](https://github.com/tangdou369098655/FrontEndDeployment/blob/master/nginx_zh.md)
+
+## Introduction
 
 * The purpose of this paper is to solve the static resource deployment requirements of the front end by using the simplest and fastest method.
 * The company usually uses **tomcat** to deploy a lot of static resources. I bought a server in March this year. I've been busy working overtime and haven't started using it yet. I just used it today.
