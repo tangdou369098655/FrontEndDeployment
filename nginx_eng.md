@@ -128,7 +128,7 @@ ps -ef | grep nginx
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200526233123762.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Rhbmdkb3UzNjkwOTg2NTU=,size_16,color_FFFFFF,t_70)
  ### 2. Visit
  ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200526233612452.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Rhbmdkb3UzNjkwOTg2NTU=,size_16,color_FFFFFF,t_70)
-## 结语
-> 本教程旨在快速完成项目部署，其他配置项问题没有列举出来哦...后期有空会增加配置文章哟~~
-> 欢迎大家指出文章需要改正之处~  
-> 如果有更好的方法，欢迎大家提出来，共同进步哟~~ 
+## Colclusion
+> The purpose of this tutorial is to quickly complete the project deployment. Other configuration problems are not listed..Configuration articles will be added later if I have time...
+> Welcome to point out the article needs to be corrected~  
+> If there is a better way, please come up with it and make progress together~~ 
