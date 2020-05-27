@@ -1,5 +1,7 @@
 @[超简单的前端静态资源服务器部署--nginx](https://github.com/tangdou369098655/FrontEndDeployment/blob/master/nginx_zh.md)
 
+简体中文 | [English](https://github.com/tangdou369098655/FrontEndDeployment/blob/master/nginx_eng.md)
+
 ## 说明
 
 * 本文旨在使用最简单快速的办法，解决前端静态资源部署需求。
