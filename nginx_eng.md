@@ -112,6 +112,11 @@ Open the configuration file, use the down arrow of the keyboard to search for th
 ps -ef | grep nginx
 
 ```
+>Note: if the startup is not successful, there is only one item below, not three items
+>We can use the following command to start
+>./usr/local/nginx/sbin/nginx
+>Instead of using reload
+
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200527000049159.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Rhbmdkb3UzNjkwOTg2NTU=,size_16,color_FFFFFF,t_70)
 ## Step 3: Test
 
