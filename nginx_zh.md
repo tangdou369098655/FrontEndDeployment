@@ -111,10 +111,10 @@ ps -ef | grep nginx
 
 ```
 ## 备注：如果启动不成功，查看的时候下面就只有一条
-> 我们可以使用这个来启动
-> 启动nginx
-> ./usr/local/nginx/sbin/nginx
-> 而不是使用reload
+### 我们可以使用这个来启动
+### 启动nginx
+### ./usr/local/nginx/sbin/nginx
+### 而不是使用reload
 
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20200527000049159.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Rhbmdkb3UzNjkwOTg2NTU=,size_16,color_FFFFFF,t_70)
 ## 步骤三：测试
